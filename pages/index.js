@@ -5,13 +5,7 @@ function Home() {
         <div>
             <h1>Home</h1>
             <p>This is a prototype site.</p>
-            <style>
-                h1 {
-                    border-style: ridge;
-                    border-color: black;
-                    border-width: 5px;
-                }
-            </style>
+            
             <Contador />
         </div>
     )
