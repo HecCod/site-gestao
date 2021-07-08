@@ -9,6 +9,7 @@ function Home() {
                 h1 {
                     border-style: ridge;
                     border-color: black;
+                    border-width: 5px;
                 }
             </style>
             <Contador />
