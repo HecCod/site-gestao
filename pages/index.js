@@ -5,6 +5,12 @@ function Home() {
         <div>
             <h1>Home</h1>
             <p>This is a prototype site.</p>
+            <style>
+                h1 {
+                    border-style: ridge;
+                    border-color: black;
+                }
+            </style>
             <Contador />
         </div>
     )
